@@ -27,5 +27,14 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/guilherme/.m2/repository/org/apache/lucene/lucene-core/3.6.1/lucene-core-3.6.1.jar" sourcepath="/home/guilherme/.m2/repository/org/apache/lucene/lucene-core/3.6.1/lucene-core-3.6.1-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.apache.lucene"/>
+			<attribute name="maven.artifactId" value="lucene-core"/>
+			<attribute name="maven.version" value="3.6.1"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
