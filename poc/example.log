@@ -1,0 +1,249 @@
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO main br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@18b8ed1: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:26:07 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@18b8ed1]: org.springframework.beans.factory.support.DefaultListableBeanFactory@f03827
+INFO main br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO main br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@18b8ed1: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:26:07 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@10b5b69: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:27:10 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@10b5b69]: org.springframework.beans.factory.support.DefaultListableBeanFactory@14e52da
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@10b5b69: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:27:10 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1b64337: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:27:31 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1b64337]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1ca54e5
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1b64337: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:27:31 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@edf5e1: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:28:02 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@edf5e1]: org.springframework.beans.factory.support.DefaultListableBeanFactory@9dbb4
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@edf5e1: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:28:02 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1292def: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:28:23 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1292def]: org.springframework.beans.factory.support.DefaultListableBeanFactory@3aea35
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1292def: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:28:23 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@b3589d: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:29:14 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@b3589d]: org.springframework.beans.factory.support.DefaultListableBeanFactory@893099
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@b3589d: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:29:14 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1902d1d: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:30:25 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1902d1d]: org.springframework.beans.factory.support.DefaultListableBeanFactory@8f6d24
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1902d1d: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:30:25 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@be59e7: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:30:56 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@be59e7]: org.springframework.beans.factory.support.DefaultListableBeanFactory@3fe533
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@be59e7: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:30:56 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1d15ec6: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:31:27 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1d15ec6]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1772085
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1d15ec6: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:31:27 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@e72a0: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:31:48 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@e72a0]: org.springframework.beans.factory.support.DefaultListableBeanFactory@bcb45a
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@e72a0: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:31:48 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@dc11e1: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:32:09 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@dc11e1]: org.springframework.beans.factory.support.DefaultListableBeanFactory@cf4c92
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@dc11e1: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:32:09 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@18cb5cd: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:32:29 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@18cb5cd]: org.springframework.beans.factory.support.DefaultListableBeanFactory@13a8b99
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Thread-19 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@18cb5cd: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:32:29 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO main br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@c33910: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:37:33 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@c33910]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1dd101
+INFO main br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO main br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Thread-19 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@c33910: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:37:33 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO main br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@ffe6b5: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:39:45 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@ffe6b5]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1b41843
+INFO main br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO main br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Thread-19 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@ffe6b5: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:39:45 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO main br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@16091af: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:40:44 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@16091af]: org.springframework.beans.factory.support.DefaultListableBeanFactory@7a87d1
+INFO main br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO main br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@16091af: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:40:44 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@104d31f: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:42:07 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@104d31f]: org.springframework.beans.factory.support.DefaultListableBeanFactory@1fe2677
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Thread-19 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@104d31f: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:42:07 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO main br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@a9b0b4: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:42:41 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@a9b0b4]: org.springframework.beans.factory.support.DefaultListableBeanFactory@e0745e
+INFO main br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO main br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO qtp28368186-41 - /procurar br.com.lucene.poc.controller.IndexController - Executando /procurar com o parametro: Harry
+INFO qtp28368186-41 - /procurar br.com.lucene.poc.controller.IndexController - Found 1 hits.
+INFO qtp28368186-41 - /procurar br.com.lucene.poc.controller.IndexController - 1. Harry Potter
+INFO qtp28368186-42 - /indexar br.com.lucene.poc.controller.IndexController - Executando /indexar com o texto: Harry Potter 2
+INFO qtp28368186-41 - /procurar br.com.lucene.poc.controller.IndexController - Executando /procurar com o parametro: Harry
+INFO qtp28368186-41 - /procurar br.com.lucene.poc.controller.IndexController - Found 1 hits.
+INFO qtp28368186-41 - /procurar br.com.lucene.poc.controller.IndexController - 1. Harry Potter 2
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@a9b0b4: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:42:41 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@a321a3: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:47:17 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@a321a3]: org.springframework.beans.factory.support.DefaultListableBeanFactory@2feaf6
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@a321a3: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:47:17 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@aae65a: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:47:47 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@aae65a]: org.springframework.beans.factory.support.DefaultListableBeanFactory@869846
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@aae65a: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:47:47 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1dfbc19: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:49:29 BRST 2013]; root of context hierarchy
+INFO Scanner-0 br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO Scanner-0 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1dfbc19]: org.springframework.beans.factory.support.DefaultListableBeanFactory@6c806b
+INFO Scanner-0 br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO Scanner-0 br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO Scanner-0 br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO Thread-19 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@1dfbc19: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:49:29 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - Using class br.com.caelum.vraptor.ioc.spring.SpringProvider as Container Provider
+INFO main br.com.caelum.vraptor.ioc.spring.DefaultSpringLocator - No application context found
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Refreshing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@3cf3fa: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:50:06 BRST 2013]; root of context hierarchy
+INFO main br.com.caelum.vraptor.config.BasicConfiguration - br.com.caelum.vraptor.scanning = null
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Scanning WEB-INF/classes: /home/guilherme/meus/Lucene-Poc/poc/target/classes 
+INFO main br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Bean factory for application context [br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@3cf3fa]: org.springframework.beans.factory.support.DefaultListableBeanFactory@bf13c6
+INFO main br.com.caelum.vraptor.core.DefaultConverters - Registering bundled converters
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /procurar                                         [POST] -> IndexController.procurar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /indexar                                          [POST] -> IndexController.indexar(String)
+INFO main br.com.caelum.vraptor.http.route.DefaultRouteBuilder - /                                                 [ALL] -> IndexController.index()
+INFO main br.com.caelum.vraptor.VRaptor - VRaptor 3.2.0-SNAPSHOT successfuly initialized
+INFO qtp14276745-44 - /indexar br.com.lucene.poc.controller.IndexController - Executando /indexar com o texto: Harry Potter
+INFO qtp14276745-45 - /procurar br.com.lucene.poc.controller.IndexController - Executando /procurar com o parametro: Harry
+INFO qtp14276745-45 - /procurar br.com.lucene.poc.controller.IndexController - Found 1 hits.
+INFO qtp14276745-45 - /procurar br.com.lucene.poc.controller.IndexController - 1. Harry Potter
+INFO qtp14276745-41 - /indexar br.com.lucene.poc.controller.IndexController - Executando /indexar com o texto: Harry Potter 2
+INFO qtp14276745-41 - /procurar br.com.lucene.poc.controller.IndexController - Executando /procurar com o parametro: Harry
+INFO qtp14276745-41 - /procurar br.com.lucene.poc.controller.IndexController - Found 1 hits.
+INFO qtp14276745-41 - /procurar br.com.lucene.poc.controller.IndexController - 1. Harry Potter 2
+INFO Thread-19 br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext - Closing br.com.caelum.vraptor.ioc.spring.VRaptorApplicationContext@3cf3fa: display name [Root WebApplicationContext]; startup date [Tue Feb 12 20:50:06 BRST 2013]; root of context hierarchy
